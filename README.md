@@ -14,6 +14,8 @@ CSS.
   - [Nested tags support](#nested-tags-support)
 - [Formulas <b>(not implemented)</b>](#formulas)
   - [Basic LaTeX syntax support <b>(not implemented)</b>](#basic-latex-syntax-support)
+- [Labels And References <b>(not implemented)</b>](#lables-and-references)
+- [Bibliography <b>(not implemented)</b>](#bibliography)
 - [Page breaking <b>(not implemented)</b>](#page-breaking)
 
 ## Quick Start
@@ -154,5 +156,9 @@ So you can manually add some styling directly inside the code block.
 ## Formulas
 
 ### Basic LaTeX syntax support
+
+## Lables And References
+
+## Bibliography
 
 ## Page breaking
