@@ -1,6 +1,6 @@
 # `notex.js`
 
-For those who dooesn't want to &#x1F92C; with LaTeX and wants to use HTML and
+For those who don't want to &#x1F92C; with LaTeX and want to use HTML and
 CSS.
 
 ## Table of Contents
